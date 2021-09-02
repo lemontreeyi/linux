@@ -1,0 +1,6 @@
+2021/09/02-18:46:51.889 15ba Reusing MANIFEST /home/lemon/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/09/02-18:46:51.889 15ba Recovering log #23
+2021/09/02-18:46:51.890 15ba Reusing old log /home/lemon/.config/google-chrome/Default/Sync Data/LevelDB/000023.log 
+2021/09/02-20:11:52.462 d725 Level-0 table #27: started
+2021/09/02-20:11:52.468 d725 Level-0 table #27: 107354 bytes OK
+2021/09/02-20:11:52.474 d725 Delete type=0 #23

@@ -1,0 +1,14 @@
+{
+   "extDesc": {
+      "message": "Allow selecting, copying, pasting anywhere."
+   },
+   "extName": {
+      "message": "Enable Copy"
+   },
+   "extTip": {
+      "message": "Enable Copy loaded! Hover any element you want to copy in the page."
+   },
+   "extWarning": {
+      "message": "Enable Copy doesn't work on Google Chrome webstore!"
+   }
+}

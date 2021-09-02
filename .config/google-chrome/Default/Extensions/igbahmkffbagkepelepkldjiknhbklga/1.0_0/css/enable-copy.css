@@ -1,0 +1,104 @@
+#EnableCopy_block,
+#EnableCopy_center,
+#EnableCopy_footer,
+.EnableCopy_category,
+span.EnableCopy_property,
+#EnableCopy_block h1,
+#EnableCopy_block h2,
+#EnableCopy_block ul,
+#EnableCopy_block li,
+#EnableCopy_block span
+{
+	font-family:"Lucida sans", helvetica, sans-serif !important;
+	font-size:10px !important;
+	z-index:9998 !important;
+	padding:0 !important;
+	margin:0 !important;
+	text-indent:0px !important;
+	text-align:left !important;
+	background:transparent !important;
+	visibility: visible !important;
+	width:auto !important;
+	height:auto !important;
+	line-height: 20px; 
+}
+
+#EnableCopy_block
+{
+	display:none;
+	width:332px !important;
+	font-size:10px !important;
+	color:#555 !important;
+	position:absolute !important;
+}
+#EnableCopy_content
+{
+	max-height: 400px !important;
+	word-wrap: break-word;
+	overflow: hidden;
+	word-break: break-all;
+	overflow-y: scroll;
+}
+
+#EnableCopy_block h1
+{
+	color:#fff !important;
+	font-size:12px !important;
+	text-transform:none !important;
+	text-align:center !important;
+	width:332px !important;
+	display:block !important; 
+	background:url("chrome-extension://__MSG_@@extension_id__/img/header.png") !important;
+	padding:30px 0 10px 0 !important;
+	margin:5% auto;
+	overflow:hidden !important;
+	line-height: 5px;
+}
+
+#EnableCopy_center
+{
+	padding:10px 32px 0 32px !important;
+	overflow:hidden !important;
+	background:url("chrome-extension://__MSG_@@extension_id__/img/body.png") repeat-y !important;
+}
+
+#EnableCopy_footer
+{
+	padding-top:5px;
+	color:#555 !important;
+	text-align:center !important;
+	width:332px !important;
+	height:30px !important;
+	display:block !important;
+	background:url("chrome-extension://__MSG_@@extension_id__/img/footer.png") !important;
+}
+
+#EnableCopy_block span.EnableCopy_property
+{
+	color:#888 !important;
+	float:left !important;
+	width:100px !important; 
+	display:block !important; 
+	overflow:hidden !important;
+}
+
+.EnableCopy_alert_container {
+	z-index: 2000;
+    display: none;
+    position: fixed;
+    top: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.EnableCopy_alert {
+    color: #fff !important;
+    margin: auto;
+    width: 300px;
+    background-color: #81C784 !important;
+    border-radius: 4px;
+    padding: 15px;
+    opacity: 1;
+    transition: opacity 0.4s;
+}
+
