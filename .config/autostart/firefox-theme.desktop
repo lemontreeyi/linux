@@ -1,8 +1,0 @@
-[Desktop Entry]
-Exec=/usr/bin/firegnome-enable.sh
-Name=Gnomish firefox theme
-Comment=Enable firefox-gnome-theme-maia
-Type=Application
-Icon=applications-system
-StartupNotify=false
-X-GNOME-Autostart-enabled=true

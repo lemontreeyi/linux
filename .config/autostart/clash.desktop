@@ -1,6 +1,0 @@
-#开机自启动clash
-[Desktop Entry]
-Name=clash
-Type=Application
-Exec=/usr/bin/clash
-
