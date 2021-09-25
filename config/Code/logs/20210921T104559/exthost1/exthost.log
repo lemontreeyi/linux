@@ -1,0 +1,125 @@
+[2021-09-21 10:46:03.018] [exthost] [info] extension host started
+[2021-09-21 10:46:03.018] [exthost] [info] Skipping acquiring lock for /home/lemon/.config/Code/User/workspaceStorage/7a4adcbc4ac2fb4c6fcb68a58c19608d.
+[2021-09-21 10:46:03.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-21 10:46:03.149] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-21 10:46:03.163] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent {"startup":false,"extensionId":{"value":"KevinRose.vsc-python-indent","_lower":"kevinrose.vsc-python-indent"},"activationEvent":"onLanguage:python"}
+[2021-09-21 10:46:03.163] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/kevinrose.vsc-python-indent-1.14.2/out/extension.js
+[2021-09-21 10:46:03.170] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-21 10:46:03.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension
+[2021-09-21 10:46:03.265] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-21 10:46:03.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension
+[2021-09-21 10:46:03.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-21 10:46:03.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-21 10:46:03.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-21 10:46:03.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-21 10:46:03.431] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-09-21 10:46:03.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-09-21 10:46:03.434] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-09-21 10:46:03.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2021-09-21 10:46:03.512] [exthost] [info] ExtensionService#_doActivateExtension mkxml.vscode-filesize {"startup":true,"extensionId":{"value":"mkxml.vscode-filesize","_lower":"mkxml.vscode-filesize"},"activationEvent":"*"}
+[2021-09-21 10:46:03.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/mkxml.vscode-filesize-3.1.0/dist/extension
+[2021-09-21 10:46:03.517] [exthost] [info] ExtensionService#_doActivateExtension spywhere.guides {"startup":true,"extensionId":{"value":"spywhere.guides","_lower":"spywhere.guides"},"activationEvent":"*"}
+[2021-09-21 10:46:03.517] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/spywhere.guides-0.9.3/out/extension
+[2021-09-21 10:46:03.770] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-21 10:46:03.770] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4/packages/client/dist/extension.js
+[2021-09-21 10:46:03.797] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-21 10:46:03.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-21 10:46:04.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-21 10:46:04.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-21 10:46:04.381] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-21 10:46:04.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-python.vscode-pylance-2021.9.1/dist/extension.bundle.js
+[2021-09-21 10:46:04.498] [exthost] [info] eager extensions activated
+[2021-09-21 10:46:04.513] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-21 10:46:04.513] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-21 10:46:04.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-21 10:46:04.751] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-21 10:46:04.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-21 10:46:04.770] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-21 10:46:04.777] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-09-21 10:46:04.777] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-09-21 10:46:04.904] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-21 10:46:04.930] [exthost] [error] Activating extension vscode.github-authentication failed due to an error:
+[2021-09-21 10:46:04.930] [exthost] [error] Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8805
+    at Array.forEach (<anonymous>)
+    at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8753)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-21 10:46:04.932] [exthost] [error] Activating extension ms-vscode.js-debug failed due to an error:
+[2021-09-21 10:46:04.932] [exthost] [error] Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8805
+    at Array.forEach (<anonymous>)
+    at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8753)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-21 10:46:04.932] [exthost] [error] Activating extension vscode.emmet failed due to an error:
+[2021-09-21 10:46:04.932] [exthost] [error] Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8805
+    at Array.forEach (<anonymous>)
+    at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8753)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-21 10:46:04.933] [exthost] [error] Activating extension vscode.merge-conflict failed due to an error:
+[2021-09-21 10:46:04.933] [exthost] [error] Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8805
+    at Array.forEach (<anonymous>)
+    at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8753)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-21 10:46:04.934] [exthost] [error] Activating extension formulahendry.code-runner failed due to an error:
+[2021-09-21 10:46:04.934] [exthost] [error] Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8805
+    at Array.forEach (<anonymous>)
+    at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8753)
+    at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2021-09-21 10:46:04.943] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/lemon/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-09-21 10:46:04.957] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+    at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+    at y.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:38938)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:57892)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2021-09-21 10:46:04.957] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+    at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+    at y.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:38938)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:57892)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2021-09-21 10:46:04.957] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+    at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+    at y.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:38938)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:57892)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2021-09-21 10:46:05.011] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/lemon/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-09-21 10:46:05.924] [exthost] [info] exiting with code 0

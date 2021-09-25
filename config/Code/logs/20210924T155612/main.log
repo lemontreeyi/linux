@@ -1,0 +1,18 @@
+[2021-09-24 15:56:12.670] [main] [info] update#setState idle
+[2021-09-24 15:56:42.687] [main] [info] update#setState checking for updates
+[2021-09-24 15:56:42.814] [main] [info] update#setState idle
+[2021-09-24 16:56:42.791] [main] [info] update#setState checking for updates
+[2021-09-24 16:56:43.293] [main] [info] update#setState idle
+[2021-09-24 17:56:42.827] [main] [info] update#setState checking for updates
+[2021-09-24 17:56:43.340] [main] [info] update#setState idle
+[2021-09-24 18:56:42.927] [main] [info] update#setState checking for updates
+[2021-09-24 18:56:43.437] [main] [info] update#setState idle
+[2021-09-24 19:56:43.027] [main] [info] update#setState checking for updates
+[2021-09-24 19:56:44.704] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-09-24 19:56:44.704] [main] [info] update#setState idle
+[2021-09-24 20:56:43.126] [main] [info] update#setState checking for updates
+[2021-09-24 20:56:43.677] [main] [info] update#setState idle
+[2021-09-24 21:56:43.136] [main] [info] update#setState checking for updates
+[2021-09-24 21:56:43.523] [main] [info] update#setState idle

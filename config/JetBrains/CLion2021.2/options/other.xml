@@ -1,0 +1,45 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1yZDVSdd1TrtzEYNEZ9JLnElzuf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="appcds.runOnSecondStart" value="CL-212.5284.51-d5b1d01d67b8249d00aa285b26610c0e045b774f5cd29589597ea01e8a69b0ee" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/文档/编程/python" />
+    <property name="file.gist.reindex.count" value="4" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-212.5284.51" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/文档/编程/python" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-212.5284.51" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

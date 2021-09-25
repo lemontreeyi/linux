@@ -1,0 +1,63 @@
+[2021-09-25 13:19:44.353] [exthost] [info] extension host started
+[2021-09-25 13:19:44.353] [exthost] [info] Skipping acquiring lock for /home/lemon/.config/Code/User/workspaceStorage/79d459ee63fc63174e2a79f83d758914.
+[2021-09-25 13:19:44.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-25 13:19:44.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-25 13:19:44.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-25 13:19:44.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-25 13:19:44.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-25 13:19:44.453] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-25 13:19:44.465] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-09-25 13:19:44.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-09-25 13:19:44.466] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-09-25 13:19:44.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2021-09-25 13:19:44.483] [exthost] [info] ExtensionService#_doActivateExtension mkxml.vscode-filesize {"startup":true,"extensionId":{"value":"mkxml.vscode-filesize","_lower":"mkxml.vscode-filesize"},"activationEvent":"*"}
+[2021-09-25 13:19:44.484] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/mkxml.vscode-filesize-3.1.0/dist/extension
+[2021-09-25 13:19:44.485] [exthost] [info] ExtensionService#_doActivateExtension spywhere.guides {"startup":true,"extensionId":{"value":"spywhere.guides","_lower":"spywhere.guides"},"activationEvent":"*"}
+[2021-09-25 13:19:44.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/spywhere.guides-0.9.3/out/extension
+[2021-09-25 13:19:44.555] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-25 13:19:44.555] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.7/packages/client/dist/extension.js
+[2021-09-25 13:19:44.576] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-25 13:19:44.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-25 13:19:44.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-25 13:19:44.697] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-25 13:19:44.702] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-25 13:19:44.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-25 13:19:44.795] [exthost] [info] eager extensions activated
+[2021-09-25 13:19:44.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-25 13:19:44.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-25 13:19:44.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-25 13:19:44.806] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-25 13:19:44.808] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-09-25 13:19:44.808] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-09-25 13:19:44.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-25 13:19:44.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-25 13:20:29.554] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent {"startup":false,"extensionId":{"value":"KevinRose.vsc-python-indent","_lower":"kevinrose.vsc-python-indent"},"activationEvent":"onLanguage:python"}
+[2021-09-25 13:20:29.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/kevinrose.vsc-python-indent-1.14.2/out/extension.js
+[2021-09-25 13:20:29.558] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-25 13:20:29.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension
+[2021-09-25 13:20:29.684] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-25 13:20:29.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension
+[2021-09-25 13:20:30.150] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-25 13:20:30.150] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-python.vscode-pylance-2021.9.3/dist/extension.bundle.js
+[2021-09-25 13:21:12.750] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 13:21:12.750] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:116539
+    at w.provideDocumentHighlights (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167255)
+[2021-09-25 13:21:16.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-25 13:21:16.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-09-25 13:22:41.446] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-25 13:22:41.828] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'x'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at /home/lemon/.vscode/extensions/vscodevim.vim-1.21.7/src/register/register.ts:357:16
+    at process.async (internal/process/task_queues.js:93:5)
+    at Object.e.deactivate (/home/lemon/.vscode/extensions/vscodevim.vim-1.21.7/extension.ts:36:8)
+    at async Promise.all (index 19)
+    at v.deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10017)
+[2021-09-25 13:22:42.465] [exthost] [info] exiting with code 0

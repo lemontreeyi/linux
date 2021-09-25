@@ -1,0 +1,80 @@
+用户属于 'pythonaacf' 实验组
+用户属于 'pythonJediLSP' 实验组
+用户属于 'pythonDiscoveryModuleWithoutWatcher' 实验组
+用户属于 'pythonTensorboardExperiment' 实验组
+用户属于 'PythonPyTorchProfiler' 实验组
+用户属于 'pythonDeprecatePythonPath' 实验组
+用户属于 'pythonSortEnvs' 实验组
+用户属于 'pythonRunFailedTestsButtonDisplayedcf' 实验组
+用户属于 'pythonRefreshTestsButtonDisplayed' 实验组
+用户属于 'pythonRememberDebugConfigcf' 实验组
+Error 2021-09-21 10:46:04: Failed to prompt to launch TensorBoard session based on preexisting tfevent files in workspace: Canceled: Canceled
+Error 2021-09-21 10:46:05: Failed to check if file needs to be fixed Canceled (FileSystemError): Canceled
+    at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160527)
+    at y.readText (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:314351)
+    at p.doesFileNeedToBeFixed (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:823969)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:823096
+    at async Promise.all (index 0)
+    at p.getFilesToBeFixed (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:823042)
+    at p.updateTestSettings (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:822669) {
+  code: 'Unknown'
+}
+Error 2021-09-21 10:46:05: Failed to check if file needs to be fixed Canceled (FileSystemError): Canceled
+    at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160527)
+    at y.readText (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:9:314351)
+    at p.doesFileNeedToBeFixed (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:823969)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:823096
+    at async Promise.all (index 1)
+    at p.getFilesToBeFixed (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:823042)
+    at p.updateTestSettings (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:822669) {
+  code: 'Unknown'
+}
+Error 2021-09-21 10:46:05: Failed to activate a workspace, Class name = y, completed in 1167ms, has a falsy return value, Arg 1: <Uri:/home/lemon/文档/编程/python/test123.py>, Return Value: undefined Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+    at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+    at _doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110315)
+    at _.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:109861)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:21652)
+    at s.executeCommand (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:171914)
+    at a.setContext (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:408206)
+    at P.updateTestUIButtons (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:834748)
+    at P.activate (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:833337)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:52:191510
+    at Array.map (<anonymous>)
+    at y.activateWorkspace (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:52:191501)
+Error 2021-09-21 10:46:05: Failure during activation. Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+    at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+    at _doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110315)
+    at _.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:109861)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:21652)
+    at s.executeCommand (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:171914)
+    at a.setContext (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:408206)
+    at P.updateTestUIButtons (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:834748)
+    at P.activate (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:833337)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:52:191510
+    at Array.map (<anonymous>)
+    at y.activateWorkspace (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:52:191501)
+Error 2021-09-21 10:46:05: sendStartupTelemetry() failed. Canceled: Canceled
+    at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13617)
+    at Proxy.N.<computed>.G.charCodeAt.N.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10012)
+    at _doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110315)
+    at _.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:109861)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:21652)
+    at s.executeCommand (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:171914)
+    at a.setContext (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:78:408206)
+    at P.updateTestUIButtons (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:834748)
+    at P.activate (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:59:833337)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:52:191510
+    at Array.map (<anonymous>)
+    at y.activateWorkspace (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389/out/client/extension.js:52:191501)
+正在启动 Pylance 语言服务器。
+Python 解释器路径: /bin/python
+Error 2021-09-21 10:46:05: stat() failed for "/home/lemon/.vscode/extensions/ms-python.vscode-pylance-2021.9.1/dist/server.js" Canceled (FileSystemError): Canceled
+    at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160527)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'Unknown'
+}

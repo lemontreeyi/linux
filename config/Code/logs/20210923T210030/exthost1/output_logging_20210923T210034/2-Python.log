@@ -1,0 +1,15 @@
+用户属于 'pythonaacf' 实验组
+用户属于 'pythonJediLSP' 实验组
+用户属于 'pythonDiscoveryModuleWithoutWatcher' 实验组
+用户属于 'pythonTensorboardExperiment' 实验组
+用户属于 'PythonPyTorchProfiler' 实验组
+用户属于 'pythonDeprecatePythonPath' 实验组
+用户属于 'pythonSortEnvs' 实验组
+用户属于 'pythonRunFailedTestsButtonDisplayedcf' 实验组
+用户属于 'pythonRefreshTestsButtonDisplayed' 实验组
+用户属于 'pythonRememberDebugConfigcf' 实验组
+Python 解释器路径: /bin/python
+正在启动 Pylance 语言服务器。
+> conda --version
+Error 2021-09-23 22:08:50: Error while running worker[Worker 1]. undefined
+Error 2021-09-23 22:08:50: Error while running worker[Worker 2]. undefined

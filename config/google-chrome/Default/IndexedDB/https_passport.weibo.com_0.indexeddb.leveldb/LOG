@@ -1,0 +1,6 @@
+2021/09/22-15:20:31.974 1f0f Creating DB /home/lemon/.config/google-chrome/Default/IndexedDB/https_passport.weibo.com_0.indexeddb.leveldb since it was missing.
+2021/09/22-15:20:31.988 1f0f Reusing MANIFEST /home/lemon/.config/google-chrome/Default/IndexedDB/https_passport.weibo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/22-15:20:38.547 1c61 Level-0 table #5: started
+2021/09/22-15:20:38.550 1c61 Level-0 table #5: 1059 bytes OK
+2021/09/22-15:20:38.556 1c61 Delete type=0 #3
+2021/09/22-15:20:38.556 1c61 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

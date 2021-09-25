@@ -1,0 +1,86 @@
+[Running] python -u "/home/lemon/文档/编程/python/绘制蟒蛇.py"
+Traceback (most recent call last):
+  File "/home/lemon/文档/编程/python/绘制蟒蛇.py", line 2, in <module>
+    import turtle
+  File "/usr/lib/python3.9/turtle.py", line 107, in <module>
+    import tkinter as TK
+  File "/usr/lib/python3.9/tkinter/__init__.py", line 37, in <module>
+    import _tkinter # If this fails your Python may not be configured for Tk
+ImportError: libtk8.6.so: cannot open shared object file: No such file or directory
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/绘制蟒蛇.py"
+Traceback (most recent call last):
+  File "/home/lemon/文档/编程/python/绘制蟒蛇.py", line 2, in <module>
+    import turtle
+  File "/usr/lib/python3.9/turtle.py", line 107, in <module>
+    import tkinter as TK
+  File "/usr/lib/python3.9/tkinter/__init__.py", line 37, in <module>
+    import _tkinter # If this fails your Python may not be configured for Tk
+ImportError: libtk8.6.so: cannot open shared object file: No such file or directory
+
+[Done] exited with code=1 in 0.036 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/绘制蟒蛇.py"
+Traceback (most recent call last):
+  File "/home/lemon/文档/编程/python/绘制蟒蛇.py", line 2, in <module>
+    import turtle
+  File "/usr/lib/python3.9/turtle.py", line 107, in <module>
+    import tkinter as TK
+  File "/usr/lib/python3.9/tkinter/__init__.py", line 37, in <module>
+    import _tkinter # If this fails your Python may not be configured for Tk
+ImportError: libtk8.6.so: cannot open shared object file: No such file or directory
+
+[Done] exited with code=1 in 0.074 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/绘制蟒蛇.py"
+Traceback (most recent call last):
+  File "/home/lemon/文档/编程/python/绘制蟒蛇.py", line 2, in <module>
+    import turtle
+  File "/usr/lib/python3.9/turtle.py", line 107, in <module>
+    import tkinter as TK
+  File "/usr/lib/python3.9/tkinter/__init__.py", line 37, in <module>
+    import _tkinter # If this fails your Python may not be configured for Tk
+ImportError: libtk8.6.so: cannot open shared object file: No such file or directory
+
+[Done] exited with code=1 in 0.079 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/绘制蟒蛇.py"
+Traceback (most recent call last):
+  File "/home/lemon/文档/编程/python/绘制蟒蛇.py", line 2, in <module>
+    import turtle
+  File "/usr/lib/python3.9/turtle.py", line 107, in <module>
+    import tkinter as TK
+  File "/usr/lib/python3.9/tkinter/__init__.py", line 37, in <module>
+    import _tkinter # If this fails your Python may not be configured for Tk
+ImportError: libtk8.6.so: cannot open shared object file: No such file or directory
+
+[Done] exited with code=1 in 0.054 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/绘制蟒蛇.py"
+Traceback (most recent call last):
+  File "/home/lemon/文档/编程/python/绘制蟒蛇.py", line 2, in <module>
+    import turtle
+  File "/usr/lib/python3.9/turtle.py", line 107, in <module>
+    import tkinter as TK
+  File "/usr/lib/python3.9/tkinter/__init__.py", line 37, in <module>
+    import _tkinter # If this fails your Python may not be configured for Tk
+ImportError: libtk8.6.so: cannot open shared object file: No such file or directory
+
+[Done] exited with code=1 in 0.049 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/tempCodeRunnerFile.py"
+
+[Done] exited with code=0 in 0.064 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/tempCodeRunnerFile.py"
+
+[Done] exited with code=0 in 0.048 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/tempCodeRunnerFile.py"
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] python -u "/home/lemon/文档/编程/python/test123.py"
+请输入带有符号的温度值

@@ -1,0 +1,15 @@
+2021/09/17-10:03:51.247 aa51 Reusing MANIFEST /home/lemon/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/17-10:03:51.249 aa51 Recovering log #7
+2021/09/17-10:03:51.252 aa51 Reusing old log /home/lemon/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/000007.log 
+2021/09/17-10:04:05.766 aa38 Level-0 table #12: started
+2021/09/17-10:04:05.777 aa38 Level-0 table #12: 79664 bytes OK
+2021/09/17-10:04:05.783 aa38 Delete type=0 #7
+2021/09/17-10:04:05.786 aa38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/17-10:04:05.786 aa38 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01%\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x03\x00\x00\x00\x00\x00\x80D@' @ 1667 : 1
+2021/09/17-10:04:05.786 aa38 Compacting 1@1 + 1@2 files
+2021/09/17-10:04:05.794 aa38 Generated table #13@1: 676 keys, 25923 bytes
+2021/09/17-10:04:05.794 aa38 Compacted 1@1 + 1@2 files => 25923 bytes
+2021/09/17-10:04:05.801 aa38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/17-10:04:05.801 aa38 Delete type=2 #12
+2021/09/17-10:04:05.801 aa38 Delete type=2 #9
+2021/09/17-10:04:05.802 aa38 Manual compaction at level-1 from '\x00\x01\x01%\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x03\x00\x00\x00\x00\x00\x80D@' @ 1667 : 1 .. (end); will stop at (end)

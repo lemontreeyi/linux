@@ -1,0 +1,9 @@
+2021/09/25-10:48:34.698 3 Reusing MANIFEST /home/lemon/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/25-10:48:34.701 3 Recovering log #571
+2021/09/25-10:48:34.705 3 Reusing old log /home/lemon/.config/google-chrome/Default/Local Storage/leveldb/000571.log 
+2021/09/25-11:35:11.703 c Level-0 table #575: started
+2021/09/25-11:35:11.719 c Level-0 table #575: 172669 bytes OK
+2021/09/25-11:35:11.732 c Delete type=0 #571
+2021/09/25-11:51:41.928 11 Level-0 table #577: started
+2021/09/25-11:51:41.935 11 Level-0 table #577: 144051 bytes OK
+2021/09/25-11:51:41.941 11 Delete type=0 #574

@@ -1,0 +1,6 @@
+2021/09/04-16:09:33.032 8a43 Reusing MANIFEST /home/lemon/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/04-16:09:33.032 8a43 Recovering log #3
+2021/09/04-16:09:33.041 8a43 Reusing old log /home/lemon/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/09/04-16:48:12.710 b636 Level-0 table #5: started
+2021/09/04-16:48:12.728 b636 Level-0 table #5: 1792415 bytes OK
+2021/09/04-16:48:12.734 b636 Delete type=0 #3

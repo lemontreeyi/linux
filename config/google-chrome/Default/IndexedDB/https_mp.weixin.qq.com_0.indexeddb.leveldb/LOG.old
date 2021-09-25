@@ -1,0 +1,7 @@
+2021/09/10-12:40:03.793 bb05 Reusing MANIFEST /home/lemon/.config/google-chrome/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/10-12:40:03.794 bb05 Recovering log #3
+2021/09/10-12:40:03.797 bb05 Reusing old log /home/lemon/.config/google-chrome/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/000003.log 
+2021/09/10-12:43:06.181 bcba Level-0 table #5: started
+2021/09/10-12:43:06.204 bcba Level-0 table #5: 633343 bytes OK
+2021/09/10-12:43:06.211 bcba Delete type=0 #3
+2021/09/10-12:43:06.212 bcba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

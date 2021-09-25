@@ -1,0 +1,1 @@
+/home/lemon/.fzf/shell/key-bindings.fish

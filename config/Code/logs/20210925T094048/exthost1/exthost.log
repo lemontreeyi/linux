@@ -1,0 +1,103 @@
+[2021-09-25 09:40:51.959] [exthost] [info] extension host started
+[2021-09-25 09:40:51.959] [exthost] [info] Skipping acquiring lock for /home/lemon/.config/Code/User/workspaceStorage/7a4adcbc4ac2fb4c6fcb68a58c19608d.
+[2021-09-25 09:40:52.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-25 09:40:52.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-25 09:40:52.083] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent {"startup":false,"extensionId":{"value":"KevinRose.vsc-python-indent","_lower":"kevinrose.vsc-python-indent"},"activationEvent":"onLanguage:python"}
+[2021-09-25 09:40:52.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/kevinrose.vsc-python-indent-1.14.2/out/extension.js
+[2021-09-25 09:40:52.090] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-25 09:40:52.090] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension
+[2021-09-25 09:40:52.216] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-25 09:40:52.216] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension
+[2021-09-25 09:40:52.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-25 09:40:52.347] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-25 09:40:52.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-25 09:40:52.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-25 09:40:52.386] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-09-25 09:40:52.386] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-09-25 09:40:52.390] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-09-25 09:40:52.390] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2021-09-25 09:40:52.476] [exthost] [info] ExtensionService#_doActivateExtension mkxml.vscode-filesize {"startup":true,"extensionId":{"value":"mkxml.vscode-filesize","_lower":"mkxml.vscode-filesize"},"activationEvent":"*"}
+[2021-09-25 09:40:52.477] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/mkxml.vscode-filesize-3.1.0/dist/extension
+[2021-09-25 09:40:52.484] [exthost] [info] ExtensionService#_doActivateExtension spywhere.guides {"startup":true,"extensionId":{"value":"spywhere.guides","_lower":"spywhere.guides"},"activationEvent":"*"}
+[2021-09-25 09:40:52.484] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/spywhere.guides-0.9.3/out/extension
+[2021-09-25 09:40:53.019] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-25 09:40:53.019] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.7/packages/client/dist/extension.js
+[2021-09-25 09:40:53.179] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-25 09:40:53.179] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-25 09:40:53.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-25 09:40:53.446] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-25 09:40:53.822] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-25 09:40:53.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-25 09:40:53.945] [exthost] [info] eager extensions activated
+[2021-09-25 09:40:53.984] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-25 09:40:53.984] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-25 09:40:53.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-25 09:40:53.998] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-25 09:40:54.005] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-09-25 09:40:54.005] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-09-25 09:40:54.103] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-25 09:40:54.104] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lemon/.vscode/extensions/ms-python.vscode-pylance-2021.9.3/dist/extension.bundle.js
+[2021-09-25 09:40:54.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-25 09:40:54.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-25 09:47:19.044] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 09:47:19.048] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:112947
+    at g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-25 09:48:54.937] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 09:48:54.938] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:116539
+    at w.provideDocumentHighlights (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167255)
+[2021-09-25 09:48:57.126] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 09:48:57.126] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:112947
+    at g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-25 10:21:35.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-25 10:21:35.997] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-25 10:21:36.026] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-25 10:21:36.026] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-25 10:21:36.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-25 10:21:36.069] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-25 10:22:55.469] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 10:22:55.470] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:112155
+    at $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-25 10:24:16.538] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 10:24:16.539] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:120466
+    at S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-25 10:26:04.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-25 10:26:04.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-09-25 10:41:58.731] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 10:41:58.732] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:112947
+    at g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-25 10:41:58.733] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 10:41:58.734] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:120466
+    at S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-25 10:41:59.150] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 10:41:59.151] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:112947
+    at g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-25 10:41:59.560] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-25 10:41:59.562] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152754)
+    at _.handleFailedRequest (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:152605)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:112947
+    at g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)

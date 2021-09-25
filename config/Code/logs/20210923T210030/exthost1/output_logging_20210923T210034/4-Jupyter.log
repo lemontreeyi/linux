@@ -1,0 +1,10 @@
+用户属于实验组 'jupyterTest'
+用户属于实验组 'jupyterEnhancedDataViewer'
+Info 2021-09-23 21:00:34: ZMQ install verified.
+Info 2021-09-23 22:08:50: Shutting down notebooks for 098f49ae-b104-42dc-97fe-9e1466e48b2d
+Info 2021-09-23 22:08:50: Disposing HostJupyterExecution a7ec5ac5-9f43-4dc7-ba4b-0f972d8cf19c
+Info 2021-09-23 22:08:50: Disposing super HostJupyterExecution a7ec5ac5-9f43-4dc7-ba4b-0f972d8cf19c
+Info 2021-09-23 22:08:50: Disposing HostJupyterExecution a7ec5ac5-9f43-4dc7-ba4b-0f972d8cf19c
+Info 2021-09-23 22:08:50: Finished disposing HostJupyterExecution  a7ec5ac5-9f43-4dc7-ba4b-0f972d8cf19c
+Info 2021-09-23 22:08:50: Cleaning up server cache a7ec5ac5-9f43-4dc7-ba4b-0f972d8cf19c
+Info 2021-09-23 22:08:50: Finished disposing HostJupyterExecution  a7ec5ac5-9f43-4dc7-ba4b-0f972d8cf19c

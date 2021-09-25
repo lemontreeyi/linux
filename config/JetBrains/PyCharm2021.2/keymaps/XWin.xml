@@ -1,0 +1,9 @@
+<keymap version="1" name="XWin 副本" parent="Default for XWin">
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="TerminalDecreaseFontSize" />
+</keymap>

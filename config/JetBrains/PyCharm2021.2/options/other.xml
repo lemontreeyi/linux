@@ -1,0 +1,71 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrainsMonoExtraBold Nerd Font Mono" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1yZDVSdd1TrtzEYNEZ9JLnElzuf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1ycN4iyvFBABhuqgzT1Sm1KyyJt">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-188-198-255,,,156-227-255-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="放大&#10;fd&#10;Chinese" />
+    <property name="MarketplacePluginsSearchHistory" value="/sortBy:updated&#10;marketplace&#10;marketpla&#10;market&#10;mark" />
+    <property name="NextRunPlatformUpdateBuild" value="PY-212.5284.44/2021.2.2" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.2" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="放大" />
+    <property name="appcds.runOnSecondStart" value="PY-212.5284.44-1f6ba2a1badb58998f2b6266bfa69638c6e8e6ccce01ffad3de8d75666cc7a81" />
+    <property name="evlsprt3.212" value="11" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/文档/编程/python_learn&#10;/home/lemon/文档&#10;/home/lemon/文档/编程/python" />
+    <property name="file.colors.enable.non.project" value="9ce3ff" />
+    <property name="file.gist.reindex.count" value="19876" />
+    <property name="fileTypeChangedCounter" value="32" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PY-212.5284.44" />
+    <property name="ideavim.statistics.timestamp" value="1632547701059" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/文档/编程/python_learn" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="PY-212.5284.44" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="python_learn-history" project-path="$USER_HOME$/文档/编程/python_learn" last-access-time="1632554692750" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

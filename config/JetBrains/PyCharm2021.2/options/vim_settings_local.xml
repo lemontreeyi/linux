@@ -1,0 +1,29 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1632549481530">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python 控制台" timestamp="1632554684605">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/文档/编程/python_learn/123.py" timestamp="1632556468328">
+        <mark key="[" line="4" column="15" />
+      </file>
+      <file name="/" timestamp="1632555311077">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

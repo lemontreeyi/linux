@@ -1,0 +1,18 @@
+[2021-09-24 15:56:15.311] [sharedprocess] [info] Deleted from disk github.github-vscode-theme /home/lemon/.vscode/extensions/github.github-vscode-theme-4.2.1
+[2021-09-24 15:56:15.363] [sharedprocess] [info] Deleted from disk yxl.cloudmusic /home/lemon/.vscode/extensions/yxl.cloudmusic-9.2.1
+[2021-09-24 15:56:15.474] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /home/lemon/.vscode/extensions/ms-azuretools.vscode-docker-1.16.1
+[2021-09-24 15:56:15.481] [sharedprocess] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/lemon/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4
+[2021-09-24 15:56:15.627] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/lemon/.vscode/extensions/ms-python.vscode-pylance-2021.9.1
+[2021-09-24 15:56:15.644] [sharedprocess] [info] Deleted from disk ms-python.python /home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389
+[2021-09-24 15:56:24.859] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-24 15:56:24.861] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210905T183043'
+[2021-09-24 15:56:30.511] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2021-09-24 15:56:32.517] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/lemon/.config/Code/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.0.7
+[2021-09-24 15:56:32.792] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.8d470349-19a7-4dcd-a5eb-a070a0fd2f55: streetsidesoftware.code-spell-checker
+[2021-09-24 15:56:32.801] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.7
+[2021-09-24 15:56:32.804] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2021-09-24 15:56:32.819] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2021-09-24 15:56:44.858] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-24 15:56:44.859] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-24 15:56:54.862] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-24 15:56:54.865] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder 98b06e5fc1e607fc0dd054b0c5455cc9.zh-cn. Language pack still in use.

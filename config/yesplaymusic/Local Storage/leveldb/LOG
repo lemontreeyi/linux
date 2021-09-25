@@ -1,0 +1,6 @@
+2021/09/25-09:42:00.415 1423 Reusing MANIFEST /home/lemon/.config/yesplaymusic/Local Storage/leveldb/MANIFEST-000001
+2021/09/25-09:42:00.417 1423 Recovering log #64
+2021/09/25-09:42:00.418 1423 Reusing old log /home/lemon/.config/yesplaymusic/Local Storage/leveldb/000064.log 
+2021/09/25-10:19:00.825 2ceb Level-0 table #68: started
+2021/09/25-10:19:00.831 2ceb Level-0 table #68: 18286 bytes OK
+2021/09/25-10:19:00.838 2ceb Delete type=0 #64

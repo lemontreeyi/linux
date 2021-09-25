@@ -1,0 +1,42 @@
+[2021-09-23 21:00:36.917] [sharedprocess] [info] Installing extension: github.github-vscode-theme
+[2021-09-23 21:00:37.943] [sharedprocess] [info] Downloaded extension: github.github-vscode-theme /home/lemon/.config/Code/CachedExtensionVSIXs/github.github-vscode-theme-5.0.0
+[2021-09-23 21:00:37.972] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.8d41c713-8c56-41f8-8600-4a9aaaaba534: github.github-vscode-theme
+[2021-09-23 21:00:37.976] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/github.github-vscode-theme-5.0.0
+[2021-09-23 21:00:37.977] [sharedprocess] [info] Extracting completed. github.github-vscode-theme
+[2021-09-23 21:00:37.988] [sharedprocess] [info] Extension installed successfully: github.github-vscode-theme
+[2021-09-23 21:00:42.949] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-23 21:00:42.949] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210905T181326'
+[2021-09-23 21:00:47.632] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2021-09-23 21:00:48.352] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-09-23 21:00:48.435] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-23 21:00:48.742] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-23 21:00:49.441] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/lemon/.config/Code/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.0.6
+[2021-09-23 21:00:49.572] [sharedprocess] [info] Installing extension: yxl.cloudmusic
+[2021-09-23 21:00:49.821] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.2ad0784e-60a6-4afa-ac67-76047e1d0f53: streetsidesoftware.code-spell-checker
+[2021-09-23 21:00:49.830] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.6
+[2021-09-23 21:00:49.832] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2021-09-23 21:00:49.844] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2021-09-23 21:00:50.222] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/lemon/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.17.0
+[2021-09-23 21:00:50.299] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.7fc37573-f88e-4c39-84ba-0ec540ad18fc: ms-azuretools.vscode-docker
+[2021-09-23 21:00:50.306] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/ms-azuretools.vscode-docker-1.17.0
+[2021-09-23 21:00:50.308] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-09-23 21:00:50.319] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-09-23 21:00:52.511] [sharedprocess] [info] Downloaded extension: yxl.cloudmusic /home/lemon/.config/Code/CachedExtensionVSIXs/yxl.cloudmusic-9.2.4
+[2021-09-23 21:00:52.610] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.e68510ff-9873-436c-a0e1-6d958162d876: yxl.cloudmusic
+[2021-09-23 21:00:52.616] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/yxl.cloudmusic-9.2.4
+[2021-09-23 21:00:52.617] [sharedprocess] [info] Extracting completed. yxl.cloudmusic
+[2021-09-23 21:00:52.626] [sharedprocess] [info] Extension installed successfully: yxl.cloudmusic
+[2021-09-23 21:00:56.265] [sharedprocess] [info] Downloaded extension: ms-python.python /home/lemon/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.9.1246542782
+[2021-09-23 21:00:56.991] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/lemon/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.3
+[2021-09-23 21:00:58.566] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.3756ca35-a7fe-408f-af41-8203d670684d: ms-python.python
+[2021-09-23 21:00:58.580] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782
+[2021-09-23 21:00:58.583] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-09-23 21:00:58.597] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-09-23 21:00:59.244] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.03e990b5-a585-47c1-82d9-6900c7e45ed7: ms-python.vscode-pylance
+[2021-09-23 21:00:59.254] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/ms-python.vscode-pylance-2021.9.3
+[2021-09-23 21:00:59.255] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-09-23 21:00:59.264] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-09-23 21:01:02.946] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-23 21:01:02.947] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-23 21:01:12.948] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-23 21:01:12.949] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder 98b06e5fc1e607fc0dd054b0c5455cc9.zh-cn. Language pack still in use.

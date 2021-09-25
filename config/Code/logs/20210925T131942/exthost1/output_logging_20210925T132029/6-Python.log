@@ -1,0 +1,26 @@
+用户属于 'pythonaacf' 实验组
+用户属于 'pythonJediLSP' 实验组
+用户属于 'pythonDiscoveryModuleWithoutWatcher' 实验组
+用户属于 'pythonTensorboardExperiment' 实验组
+用户属于 'PythonPyTorchProfiler' 实验组
+用户属于 'pythonDeprecatePythonPath' 实验组
+用户属于 'pythonSortEnvs' 实验组
+用户属于 'pythonRunFailedTestsButtonDisplayedcf' 实验组
+用户属于 'pythonRefreshTestsButtonDisplayed' 实验组
+用户属于 'pythonRememberDebugConfigcf' 实验组
+Python 解释器路径: /bin/python
+正在启动 Pylance 语言服务器。
+Error 2021-09-25 13:20:30: Failed to check if file needs to be fixed EntryNotFound (FileSystemError): 无法读取文件'/home/lemon/文档/编程/python/.vscode/settings.json' (Error: 无法解析不存在的文件"/home/lemon/文档/编程/python/.vscode/settings.json")
+    at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at y.readText (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:314351)
+    at p.doesFileNeedToBeFixed (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823969)
+    at /home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823096
+    at async Promise.all (index 1)
+    at p.getFilesToBeFixed (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823042)
+    at p.updateTestSettings (/home/lemon/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:822669) {
+  code: 'FileNotFound'
+}
+> conda --version
+Error 2021-09-25 13:22:41: Error while running worker[Worker 1]. undefined
+Error 2021-09-25 13:22:41: Error while running worker[Worker 2]. undefined

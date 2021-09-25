@@ -1,0 +1,20 @@
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP-1:::0,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+contextMenuActionsAlwaysShown=
+inAdvancedModeForEditSettings=false
+isAvailableGeometryBroadcastedToPlasma=true
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=
+version=1

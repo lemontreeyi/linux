@@ -1,0 +1,119 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/lemon/.config/icalingua/Crash Reports/.c8c500196a33149a33e1825dbcdd6f9d0feb721c-audit.json",
+    "files": [
+        {
+            "date": 1631455985390,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-12-22.log",
+            "hash": "ee5a50d0ee6752db5ab19bacbfbed28d"
+        },
+        {
+            "date": 1631496369490,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-13-09.log",
+            "hash": "6df6f4e120a672c6a632fa7275ccab4d"
+        },
+        {
+            "date": 1631531795344,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-13-19.log",
+            "hash": "95f324b7a7bbefea6ebdadc6ce88eb76"
+        },
+        {
+            "date": 1631599667515,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-14-14.log",
+            "hash": "952cb2e7ae591704285685c29deb80db"
+        },
+        {
+            "date": 1631603654079,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-14-15.log",
+            "hash": "6979f3716f055e473fa36ef61636d89e"
+        },
+        {
+            "date": 1631608410627,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-14-16.log",
+            "hash": "a3bba7a1151fcc6cfdbebbaa7bd53aca"
+        },
+        {
+            "date": 1631667300653,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-15-08.log",
+            "hash": "e600144efe4f459314fbf73105c50246"
+        },
+        {
+            "date": 1631957010683,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-18-17.log",
+            "hash": "52cdfc068d09efc121eb6ce91c7771b3"
+        },
+        {
+            "date": 1631970094750,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-18-21.log",
+            "hash": "3855a5722052ffe32863c188042797f4"
+        },
+        {
+            "date": 1632446167213,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-09.log",
+            "hash": "3997ad5a972f48d30cea4e7cc81f7dc5"
+        },
+        {
+            "date": 1632449859986,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-10.log",
+            "hash": "2c7299d0ab5bbf93630b899095c52c67"
+        },
+        {
+            "date": 1632455645761,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-11.log",
+            "hash": "762ccefceadc41eb413a43789fd77505"
+        },
+        {
+            "date": 1632478145647,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-18.log",
+            "hash": "3e0c04eaad450252d4a9ccaa43251830"
+        },
+        {
+            "date": 1632484711104,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-19.log",
+            "hash": "6a76fca878cc4af182cb290fe78b1044"
+        },
+        {
+            "date": 1632484881755,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-20.log",
+            "hash": "1bc5462f973f01788a9f1eca5e8cf858"
+        },
+        {
+            "date": 1632489134772,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-21.log",
+            "hash": "800f78ecb3a335ba4bf5cba2d069a7ed"
+        },
+        {
+            "date": 1632492121432,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-24-22.log",
+            "hash": "9bb4b6376bdc05a09cc508d3ebbfd80a"
+        },
+        {
+            "date": 1632535305524,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-25-10.log",
+            "hash": "cbce85a297c045382a6bdf0c9e8bca7d"
+        },
+        {
+            "date": 1632541994128,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-25-11.log",
+            "hash": "b769b66f35ac59cb48cf6d97604a8985"
+        },
+        {
+            "date": 1632542577826,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-25-12.log",
+            "hash": "145ca0725175521b651ae66dc6bec27c"
+        },
+        {
+            "date": 1632565413698,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-25-18.log",
+            "hash": "86654a5ea8ed7ee05797441ea779593b"
+        },
+        {
+            "date": 1632569286186,
+            "name": "/home/lemon/.config/icalingua/Crash Reports/error-report-2021-09-25-19.log",
+            "hash": "1317002eef38b95c8cad262f5b1cf58c"
+        }
+    ]
+}

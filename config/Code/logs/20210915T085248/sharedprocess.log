@@ -1,0 +1,42 @@
+[2021-09-15 08:52:51.272] [sharedprocess] [info] Deleted from disk github.github-vscode-theme /home/lemon/.vscode/extensions/github.github-vscode-theme-4.1.1
+[2021-09-15 08:52:51.274] [sharedprocess] [info] Deleted from disk ms-ceintl.vscode-language-pack-zh-hans /home/lemon/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.60.2
+[2021-09-15 08:52:51.549] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/lemon/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714
+[2021-09-15 08:52:51.583] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/lemon/.vscode/extensions/ms-python.vscode-pylance-2021.9.0
+[2021-09-15 08:53:01.056] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-15 08:53:01.057] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210902T211958'
+[2021-09-15 08:53:01.119] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[2021-09-15 08:53:03.257] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hans /home/lemon/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-zh-hans-1.60.4
+[2021-09-15 08:53:03.417] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.bf9dfb65-1c26-4083-8e8b-080223a71705: ms-ceintl.vscode-language-pack-zh-hans
+[2021-09-15 08:53:03.425] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.60.4
+[2021-09-15 08:53:03.426] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-zh-hans
+[2021-09-15 08:53:03.436] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+[2021-09-15 08:53:03.497] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[2021-09-15 08:53:21.060] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-15 08:53:21.060] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-15 08:53:25.318] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-15 08:53:31.074] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-15 08:53:31.076] [sharedprocess] [info] [language pack cache cleanup]: Removing unused language pack: 56112c73609ebbf43371e3d3ab047393.zh-cn
+[2021-09-15 08:53:31.091] [sharedprocess] [error] [uncaught exception in sharedProcess]: 发生了系统错误 (ENOENT: no such file or directory, scandir '/home/lemon/.config/Code/clp/98b06e5fc1e607fc0dd054b0c5455cc9.zh-cn'): Error: ENOENT: no such file or directory, scandir '/home/lemon/.config/Code/clp/98b06e5fc1e607fc0dd054b0c5455cc9.zh-cn'
+[2021-09-15 08:53:31.620] [sharedprocess] [info] Downloaded extension: ms-python.python /home/lemon/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.9.1230869389
+[2021-09-15 08:53:33.719] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.bd086947-0b8a-44e3-a96a-b304d3d95a6d: ms-python.python
+[2021-09-15 08:53:33.736] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/ms-python.python-2021.9.1230869389
+[2021-09-15 08:53:33.740] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-09-15 08:53:33.753] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-09-15 08:54:41.793] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-09-15 08:54:44.551] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/lemon/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.16.1
+[2021-09-15 08:54:44.636] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.b477e6ec-cae1-4c8d-a126-bd1015c69bd3: ms-azuretools.vscode-docker
+[2021-09-15 08:54:44.645] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/ms-azuretools.vscode-docker-1.16.1
+[2021-09-15 08:54:44.647] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-09-15 08:54:44.655] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-09-15 09:01:52.792] [sharedprocess] [info] Installing extension: yxl.cloudmusic
+[2021-09-15 09:01:55.687] [sharedprocess] [info] Downloaded extension: yxl.cloudmusic /home/lemon/.config/Code/CachedExtensionVSIXs/yxl.cloudmusic-9.2.1
+[2021-09-15 09:01:55.773] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.3ce9755b-6f67-494f-af5a-17c46ba6285d: yxl.cloudmusic
+[2021-09-15 09:01:55.780] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/yxl.cloudmusic-9.2.1
+[2021-09-15 09:01:55.781] [sharedprocess] [info] Extracting completed. yxl.cloudmusic
+[2021-09-15 09:01:55.786] [sharedprocess] [info] Extension installed successfully: yxl.cloudmusic
+[2021-09-15 09:02:22.434] [sharedprocess] [info] Installing extension: leetcode.vscode-leetcode
+[2021-09-15 09:02:26.419] [sharedprocess] [info] Downloaded extension: leetcode.vscode-leetcode /home/lemon/.config/Code/CachedExtensionVSIXs/leetcode.vscode-leetcode-0.18.0
+[2021-09-15 09:02:28.243] [sharedprocess] [info] Extracted extension to /home/lemon/.vscode/extensions/.6e721144-bd98-4add-99da-ccecc2d5ad7c: leetcode.vscode-leetcode
+[2021-09-15 09:02:28.258] [sharedprocess] [info] Renamed to /home/lemon/.vscode/extensions/leetcode.vscode-leetcode-0.18.0
+[2021-09-15 09:02:28.261] [sharedprocess] [info] Extracting completed. leetcode.vscode-leetcode
+[2021-09-15 09:02:28.267] [sharedprocess] [info] Extension installed successfully: leetcode.vscode-leetcode

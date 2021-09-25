@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/文档/编程/python">
+          <value>
+            <RecentProjectMetaInfo frameTitle="python – ~/文档/编程/python/12.py" projectWorkspaceId="1yZDVSdd1TrtzEYNEZ9JLnElzuf">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-212.5284.44" />
+              <option name="buildTimestamp" value="1631636801264" />
+              <frame x="4" y="13" width="955" height="1063" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1632549358399" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/文档/编程/python_learn">
+          <value>
+            <RecentProjectMetaInfo frameTitle="python_learn – 123.py" opened="true" projectWorkspaceId="1ycN4iyvFBABhuqgzT1Sm1KyyJt">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-212.5284.44" />
+              <option name="buildTimestamp" value="1631636815812" />
+              <frame x="4" y="13" width="955" height="1063" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1632549531963" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/文档" />
+  </component>
+</application>

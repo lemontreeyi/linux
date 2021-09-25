@@ -1,0 +1,43 @@
+用户属于 'pythonaacf' 实验组
+用户属于 'pythonJediLSP' 实验组
+用户属于 'pythonDiscoveryModuleWithoutWatcher' 实验组
+用户属于 'pythonTensorboardExperiment' 实验组
+用户属于 'PythonPyTorchProfiler' 实验组
+用户属于 'pythonDeprecatePythonPath' 实验组
+用户属于 'pythonSortEnvs' 实验组
+用户属于 'pythonRunFailedTestsButtonDisplayedcf' 实验组
+用户属于 'pythonRefreshTestsButtonDisplayed' 实验组
+用户属于 'pythonRememberDebugConfigcf' 实验组
+Python 解释器路径: /bin/python
+正在启动 Pylance 语言服务器。
+> conda --version
+> /bin/python -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/文档/编程/python/绘制蟒蛇.py
+cwd: ~/文档/编程/python
+> /bin/python -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/文档/编程/python/绘制蟒蛇.py
+cwd: ~/文档/编程/python
+##########Linting Output - flake8##########
+1,1,E,E265:block comment should start with '# '
+3,17,E,E231:missing whitespace after ','
+3,21,E,E231:missing whitespace after ','
+3,25,E,E231:missing whitespace after ','
+10,21,E,E231:missing whitespace after ','
+11,22,E,E231:missing whitespace after ','
+12,17,E,E231:missing whitespace after ','
+14,17,E,E231:missing whitespace after ','
+> /bin/python -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/文档/编程/python/test123.py
+cwd: ~/文档/编程/python
+> /bin/python -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/文档/编程/python/test123.py
+cwd: ~/文档/编程/python
+##########Linting Output - flake8##########
+1,1,E,E265:block comment should start with '# '
+2,8,E,E225:missing whitespace around operator
+3,23,E,E231:missing whitespace after ','
+4,6,E,E225:missing whitespace around operator
+6,17,E,E225:missing whitespace around operator
+6,23,E,E231:missing whitespace after ','
+7,6,E,E225:missing whitespace around operator
+11,1,W,W293:blank line contains whitespace
+12,1,W,W391:blank line at end of file
+12,1,W,W293:blank line contains whitespace
+Error 2021-09-25 13:11:10: Error while running worker[Worker 1]. undefined
+Error 2021-09-25 13:11:10: Error while running worker[Worker 2]. undefined

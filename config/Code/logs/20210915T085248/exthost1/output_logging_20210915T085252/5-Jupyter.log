@@ -1,0 +1,18 @@
+用户属于实验组 'jupyterTest'
+用户属于实验组 'jupyterEnhancedDataViewer'
+Info 2021-09-15 08:52:52: ZMQ install verified.
+Info 2021-09-15 08:54:44: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+Info 2021-09-15 08:54:44: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+Info 2021-09-15 08:54:45: Process Execution: > /bin/python -c "import pip"
+> /bin/python -c "import pip"
+Info 2021-09-15 08:54:45: Process Execution: > /bin/python -c "import pip"
+> /bin/python -c "import pip"
+Info 2021-09-15 12:00:41: Shutting down notebooks for 85cd60ef-2f95-4299-9cdb-63cea9d32fec
+Info 2021-09-15 12:00:41: Disposing HostJupyterExecution 1514a731-0bf7-4f8b-8a1f-c074dd61947f
+Info 2021-09-15 12:00:41: Disposing super HostJupyterExecution 1514a731-0bf7-4f8b-8a1f-c074dd61947f
+Info 2021-09-15 12:00:41: Disposing HostJupyterExecution 1514a731-0bf7-4f8b-8a1f-c074dd61947f
+Info 2021-09-15 12:00:41: Finished disposing HostJupyterExecution  1514a731-0bf7-4f8b-8a1f-c074dd61947f
+Info 2021-09-15 12:00:41: Cleaning up server cache 1514a731-0bf7-4f8b-8a1f-c074dd61947f
+Info 2021-09-15 12:00:41: Finished disposing HostJupyterExecution  1514a731-0bf7-4f8b-8a1f-c074dd61947f
