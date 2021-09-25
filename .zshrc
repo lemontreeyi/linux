@@ -88,7 +88,9 @@ POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git
 zsh-autosuggestions
-zsh-syntax-highlighting
+zsh-syntax-highlighting 
+sudo 
+extract
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -118,3 +120,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias ls="exa --icons"
+alias c="clear"
+eval "$(starship init zsh)"
+fortune
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
